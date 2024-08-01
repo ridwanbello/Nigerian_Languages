@@ -1,2 +1,3 @@
 # Nigerian_Languages
-Database of three main Nigerian languages
+This repository stores audio and corresponding transcripts of three main Nigerian languages, which include Hausa, Igbo, and Yoruba.
+
